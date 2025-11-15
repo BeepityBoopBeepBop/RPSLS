@@ -40,4 +40,3 @@ Click SETUP, then GO.
 ## Visualisation of the Data
 - The plot shows the changes in the patch population of each patch over time.
 - Heatmap shows the patch spatial distribution.
-- 
